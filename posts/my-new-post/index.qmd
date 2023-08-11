@@ -1,0 +1,13 @@
+---
+title: "My new post"
+author: "Mike Hudson"
+date: "2023-08-11"
+categories: [thoughts]
+image: "image.jpg"
+---
+
+This is my new post. I deleted the old text that was here, and I wrote new text instead.
+
+I would just keep writing to make a full blog post.
+
+I also will delete the "image.jpg" file and replace it with a new image once I have the dimensions and file size worked out.
