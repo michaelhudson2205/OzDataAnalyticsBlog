@@ -4,6 +4,7 @@ project:
 
 website:
   title: "OzDataAnalyticsBlog"
+  description: "This is Mike's blog."
   navbar:
     right:
       - about.qmd
