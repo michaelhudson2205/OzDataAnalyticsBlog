@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: Mike_Selfie_230623.jpg
+image: Logo_New_square.png
 about:
   template: jolla
   links:
